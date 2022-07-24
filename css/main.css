@@ -4,6 +4,12 @@
 .bannerColor {
     background-color: white;
 }
+.number {
+    font-size: 40px;
+}
+.imgAdjust {
+    height: 415px;
+}
 .bannerPhoto {
     width: 350px;
 }
@@ -44,3 +50,21 @@ img {
 .marginTop{
     margin-top: 20px;
 }
+
+@media only screen and (max-width: 600px) {
+    .imgAdjust {
+        height: 180px;
+    }
+    .size {
+        font-size: 4.25rem;
+    }
+    .shareMargin {
+        margin-top: 0px;
+    }
+    .imgMargin {
+        margin: 5px;
+    }
+    .paddingInsta {
+        margin-left: 0px;
+    }
+  }
