@@ -1,0 +1,46 @@
+.buttonColor {
+    background-color: rgb(55, 72, 87);
+}
+.bannerColor {
+    background-color: white;
+}
+.bannerPhoto {
+    width: 350px;
+}
+.size {
+    font-size: 5.25rem;
+}
+.anchorColor {
+    color: rgb(55, 72, 87);
+}
+li:hover a {
+    color: white;
+}
+.inputSize {
+    padding-bottom: 136px;
+    padding-top: 16px;
+}
+img {
+    border-radius: 8px;
+}
+.imgMargin {
+    margin: 20px;
+}
+.messageColor {
+    color: black;
+}
+.shareMargin {
+    margin-top: 96px;
+}
+/* .youMargin {
+    margin-right: 20px;
+} */
+.paddingInsta {
+    margin-left: 20px;
+}
+.off-canvas {
+    background: rgb(118, 121, 120);
+}
+.marginTop{
+    margin-top: 20px;
+}
